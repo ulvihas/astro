@@ -1,58 +1,66 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: Ulvi Hasanli - Resume
+description: Resume about Ulvi Hasanli, RNPO Team Leader, PMP®.
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
 # Ulvi Hasanli
 
-**Programmer**
+**RNPO Team Leader, PMP®**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Baku, Azerbaijan | ulvi.hesenov@gmail.com | http://ulvihasanli.com
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+Ulvi Hasanli is an IT and Telecommunications professional with 10+ years of experience. He holds a BSc in Computer Engineering and an MSc in IT & Telecommunications. He is PMP and AWS Cloud Practitioner certified, with a strong focus on IT project management, cloud, and cybersecurity. With leadership experience in team management and project execution, he aims for roles in IT project management or cloud project management, focusing on remote and global opportunities.
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [Huawei](https://www.huawei.com/)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### RNPO Team Leader, PMP® | Aug 2018 - Current
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+- Led and managed a team of 15 engineers, overseeing all RNPO project phases from planning to delivery.  
+- Successfully managed the project lifecycle, including requirements gathering, execution, testing, vendor collaboration, and stakeholder communication  
+- Developed and maintained project plans, schedules, and resource allocations, ensuring on-time and within-budget delivery.  
+- Managed project risks and issues, implementing mitigation strategies and driving process improvements.  
+- Implemented process improvements and best practices to enhance team efficiency and project outcomes.  
 
-#### Software Engineer | Aug 2018 - Oct 2022
+#### RNPO Engineer | Jan 2015 - Aug 2018
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+- Delivered key components of GSM, UMTS, LTE network deployments  
+- Collaborated with customers on technical requirements  
+- Monitored, analyzed, and optimized network performance, proactively identifying and resolving technical issues  
+- Implemented network planning strategies to improve coverage and capacity  
 
-### [Pied Piper](http://piedpiper.com/)
+### [Azerbaijan Technical Unversity](http://aztu.edu.az/)
 
-#### CEO/President | Dec 2013 - Dec 2014
+#### IT/Network/Web Support Engineer  | Aug 2013 - Jan 2015
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+- Provided first-line IT support, resolving hardware, software, and user issues.  
+- Developed and maintained IT infrastructure and systems.  
+- Managed backups, hardware, software, and network connectivity.ores  
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
-
-## Projects
-
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
-
-#### Video Compression for 3D Media
-
-#### Founder | Oct 2014
-
-Innovative middle-out compression algorithm that changes the way we store data.
-
-## Languages
-
-| English        | English     |
-| -------------- | ----------- |
-| Native speaker | Proficiency |
 
 ## Education
 
-### University of Oklahoma
+Azerbaijan Technical University, Azerbaijan 2020-2022  Bachelor of Science — Information Technology & Telecommunications  
+Azerbaijan Technical University, Azerbaijan 2014-2019  Master of Science — Computer Engineering  
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+### Certifications and Technical Skills
+
+#### Certifications:
+
+Project Management Professional (PMP) - Agile Certified (3AT - 50% Agile) (DEc 2024)  
+AWS Certified Cloud Practitioner (Jan 2025)   
+
+
+#### Technical Skills:
+
+A+, Network+, Security+ (Knowledge Gained)  
+Operating Systems: Windows, Mac, Linux  
+Software: Microsoft Office Suite  
+
+
+
+
+
