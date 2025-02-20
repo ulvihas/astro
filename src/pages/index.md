@@ -9,7 +9,7 @@ pdfLink: resume.pdf
 
 **RNPO Team Leader, PMP®**
 
-Baku, Azerbaijan | ulvi.hesenov@gmail.com | http://ulvihasanli.com
+Baku, Azerbaijan | mail@ulvihasanli.com | http://ulvihasanli.com
 
 Ulvi Hasanli is an IT and Telecommunications professional with 10+ years of experience. He holds a BSc in Computer Engineering and an MSc in IT & Telecommunications. He is PMP and AWS Cloud Practitioner certified, with a strong focus on IT project management, cloud, and cybersecurity. With leadership experience in team management and project execution, he aims for roles in IT project management or cloud project management, focusing on remote and global opportunities.
 
@@ -51,7 +51,8 @@ Azerbaijan Technical University, Azerbaijan 2014-2019  Master of Science — Com
 #### Certifications:
 
 Project Management Professional (PMP) - Agile Certified (3AT - 50% Agile) (DEc 2024)  
-AWS Certified Cloud Practitioner (Jan 2025)   
+AWS Certified Cloud Practitioner (Jan 2025)
+AWS Solution Architect - Associate(in progress)
 
 
 #### Technical Skills:
