@@ -5,7 +5,7 @@ layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Ulvi Hasanli
+# Ulvi Hasanli, PMP®
 
 **RNPO Team Leader, PMP®**
 
