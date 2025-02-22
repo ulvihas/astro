@@ -5,7 +5,7 @@ layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Samir BRO
+# Ulvi Hasanli
 
 **RNPO Team Leader, PMP®**
 
